@@ -1,0 +1,23 @@
+body {
+    background-image: url(/Users/caitlinschrader/git/Basic-portfolio/assets/images/snow/snow.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+.logo {
+    background-color: 
+}
+
+div {
+    background-color: #fff;
+}
+
+.navbar {
+    background-color: #fff;
+}
